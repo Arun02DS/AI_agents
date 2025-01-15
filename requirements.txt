@@ -3,3 +3,13 @@ python-dotenv
 requests
 asyncio
 futures
+cryptography
+faiss-cpu
+langchain
+sentence-transformers
+langchain-community
+opencv-python
+pandas
+matplotlib
+scikit-learn
+pytesseract
